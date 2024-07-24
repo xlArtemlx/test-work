@@ -1,9 +1,9 @@
 # Getting Started
 
 ## Step 1: Clone project
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/xlArtemlx/test-work.git
 
-cd your-repo-name
+cd test-work
 
 ## Step 2: Install Npm packg.
 npm install
