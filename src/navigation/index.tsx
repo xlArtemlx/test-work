@@ -22,6 +22,7 @@ const RootNavigator: React.FC = () => {
                     component={PeopleNavigator}
                     options={{
                         gestureEnabled: false,
+                        headerTitleAlign: 'center',
                         title: 'Characters',
                         headerTitleStyle: {
                             color: '#ebf5f7',
@@ -37,6 +38,7 @@ const RootNavigator: React.FC = () => {
                     options={{
                         gestureEnabled: false,
                         headerBackTitleVisible: false,
+                        headerTitleAlign: 'center',
                         title: 'Info',
                         headerTitleStyle: {
                             color: '#ebf5f7',
